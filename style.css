@@ -52,20 +52,20 @@ a.login-box {
     text-transform: uppercase;
     overflow: hidden;
     transition: .5s;
-    margin-top: 40px;
+    margin-top: 0px;
     letter-spacing: 4px;
     font-weight: bold;
 }
 
 a:hover {
-    background: #0a0a0a;
-    text-decoration: none;
-    color: aliceblue;
+    background: #e3dede;
+
+    color: white;
     border-radius: 5px;
-    box-shadow: 0 0 2px #616363,
-        0 0 2px #5e5c5c,
-        0 0 20px #6e6d6d,
-        0 0 10px #636464;
+    box-shadow: 0 0 2px #161717,
+        0 0 2px #0f0e0e,
+        0 0 20px #181717,
+        0 0 10px #111111;
 }
 
 a span {
