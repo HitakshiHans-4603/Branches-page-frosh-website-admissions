@@ -60,13 +60,12 @@ a.login-box {
 a:hover {
     background: #0a0a0a;
     text-decoration: none;
-
     color: aliceblue;
     border-radius: 5px;
     box-shadow: 0 0 2px #616363,
         0 0 2px #5e5c5c,
-        0 0 50px #6e6d6d,
-        0 0 100px #636464;
+        0 0 20px #6e6d6d,
+        0 0 10px #636464;
 }
 
 a span {
